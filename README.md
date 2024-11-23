@@ -1,6 +1,3 @@
-# ODE-Euler-Method
-The Euler method is a numerical approach for solving ODEs by approximating the solution in discrete steps. A Python program is provided for implementation.
-
-The Euler method is a fundamental numerical procedure used in mathematics and computational science for solving ordinary differential equations (ODEs) with an initial value. As a first-order explicit method, it is considered the simplest form of the Runge-Kutta method. This method involves breaking down the ODE into discrete steps and approximating the solution at each step based on the previous value. 
-In this article, we delve into a comprehensive exploration of the Euler method. We discuss its mathematical foundations and properties, such as its first-order nature, and examine the relationship between step size and error. Furthermore, we provide a detailed explanation of the algorithm and present a computer program that can effectively solve differential equations using this method. 
-By understanding and implementing the Euler method, researchers and practitioners in various fields can efficiently tackle ODEs numerically. This article serves as a valuable resource for programmers and mathematicians seeking to apply this method in their computational analyses and simulations.
+ODE Euler Method
+This repository contains a Python implementation of the Euler Method, a numerical approach for solving Ordinary Differential Equations (ODEs). Developed as part of the Introduction to Numerical Simulation (2022) course, it serves as a demonstration of the method's application in computational mathematics.
+The Euler Method is a first-order numerical procedure for solving initial value problems in ODEs. It approximates the solution by discretizing the equation into steps and iteratively calculating the solution at each step.
